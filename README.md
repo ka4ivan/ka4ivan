@@ -16,13 +16,13 @@ I'm a BackEnd developer from Ukraine 🇺🇦
 
 <div> 
   &emsp; 
-  <code><img height="40" alt="php" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
-  <code><img height="40" alt="laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"></code>
-  <code><img height="40" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-  <code><img height="40" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>    
-  <code><img height="40" alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
-  <code><img height="40" alt="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
-  <code><img height="40" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
+  <img height="40" alt="php" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img height="40" alt="laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
+  <img height="40" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img height="40" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">    
+  <img height="40" alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img height="40" alt="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img height="40" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img height="40" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   &emsp; 
 </div>
