@@ -8,7 +8,7 @@ I'm a BackEnd developer from Ukraine 🇺🇦
 
 - 💼 BackEnd Engineer
 
-- ❤️ I love writing PHP, and building fun experiments on type-level
+- ❤️ I love writing PHP, and building fun experiments
 
 - 💬 Ask me about anything [here](https://github.com/ka4ivan/ka4ivan/issues)
 
