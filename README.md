@@ -21,6 +21,7 @@ I'm a BackEnd developer from Ukraine 🇺🇦
   <img height="40" alt="php" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img height="40" alt="laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
   <img height="40" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img height="40" alt="alpinejs" src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg">
   <img height="40" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">    
   <img height="40" alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img height="40" alt="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
