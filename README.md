@@ -23,7 +23,7 @@ I'm a BackEnd developer from Ukraine 🇺🇦
   <code><img height="40" alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
   <code><img height="40" alt="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
   <code><img height="40" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
-  <code><img height="40" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+  <img height="40" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   &emsp; 
 </div>
 
