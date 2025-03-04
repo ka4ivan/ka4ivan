@@ -12,6 +12,8 @@ I'm a BackEnd developer from Ukraine 🇺🇦
 
 - 💬 Ask me about anything [here](https://github.com/ka4ivan/ka4ivan/issues)
 
+**Technical Skills**
+
 <code><img height="40" alt="php" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
 <code><img height="40" alt="laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"></code>
 <code><img height="40" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
