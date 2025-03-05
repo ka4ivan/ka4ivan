@@ -16,7 +16,7 @@ I'm a BackEnd developer from Ukraine 🇺🇦
 
 **Technical Skills**
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
 
   <div style="width: 89px; text-align: center;">
     <img height="44" alt="php" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
