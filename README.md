@@ -23,10 +23,6 @@ I'm a BackEnd developer from Ukraine 🇺🇦
         <img height="44" alt="php" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
       <br>PHP
     </td>
-     <td align="center"  width="88">
-        <img height="44" alt="php" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-      <br>PHP
-    </td>
     <td align="center" width="88">
       <img height="44" alt="laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
       <br>Laravel
