@@ -4,7 +4,7 @@
 </h1>
 
 
-I'm a BackEnd developer from Ukraine 🇺🇦
+I'm a BackEnd developer
 
 **About me**
 
